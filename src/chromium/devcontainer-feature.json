@@ -1,0 +1,15 @@
+{
+  "name": "Chromium",
+  "id": "chromium",
+  "version": "1.0.0",
+  "description": "Chromium",
+  "options": {},
+  "containerEnv": {
+    "CHROME_BIN": "/usr/bin/chromium",
+    "CHROMIUM_BIN": "/usr/bin/chromium"
+  },
+  "capAdd": [
+    "SYS_ADMIN"
+  ],
+  "securityOpt": []
+}
