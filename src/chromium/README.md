@@ -1,23 +1,26 @@
-# My Favorite Color (color)
 
-A feature to remind you of your favorite color
+# Chromium (chromium)
+
+Chromium
 
 ## Example Usage
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/feature-template/color:1": {
-            "version": "latest"
-        }
+    "ghcr.io/snebjorn/devcontainer-feature/chromium:1": {
+        "version": "latest"
+    }
 }
 ```
 
 ## Options
 
-| Options Id | Description                 | Type   | Default Value |
-| ---------- | --------------------------- | ------ | ------------- |
-| favorite   | Choose your favorite color. | string | red           |
+| Options Id | Description | Type | Default Value |
+|-----|-----|-----|-----|
+
+
+
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-template/blob/main/src/color/devcontainer-feature.json). Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/snebjorn/devcontainer-feature/blob/main/src/chromium/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
