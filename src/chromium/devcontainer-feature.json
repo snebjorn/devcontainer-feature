@@ -11,5 +11,7 @@
   "capAdd": [
     "SYS_ADMIN"
   ],
-  "securityOpt": []
+  "securityOpt": [
+    // "seccomp=seccomp-chromium.json"
+  ]
 }
